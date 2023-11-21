@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: Roboto, sans-serif;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+}
+
+input:hover{
+    border-color: #000;
+}
+
+.btn-search{
+    background-color: #ffffff;
+    color: #000;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-search:hover{
+    background-color: #000;
+    color: #ffffff;
+}
+
+.footer-link{
+    color:#000;
+    text-decoration: none;
+}
+
+#logo{
+    width: 600px;
+    height: 300px;
+}
